@@ -41,4 +41,4 @@ Este projeto foi proposto pela Digital Innovation One
 - [MySql Workbench](https://www.mysql.com/products/workbench/)
 
 ## Solução do desafio
-<img src="https://github.com/rdeconti/Projeto-DIO-Heineken-Construindo-Esquema-Conceitual-BD/blob/main/Esquema%20Conceitual%20BD%20-%20Resolvendo%20Desafio.pdf" />
+<img alt="PDF" src="https://github.com/rdeconti/Projeto-DIO-Heineken-Construindo-Esquema-Conceitual-BD/blob/main/Esquema%20Conceitual%20BD%20-%20Resolvendo%20Desafio.pdf" />
